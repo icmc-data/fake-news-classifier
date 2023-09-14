@@ -6,7 +6,7 @@ Classify news tweets as True or False
 
 ## Authors
 
-- [@vitorfrois](https://www.github.com/vitorfrois)
+- [@nickdapessoa](https://www.github.com/nickdapessoa)
 
 
 ## Features
